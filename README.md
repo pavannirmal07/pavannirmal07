@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋, i'm Pavan Nirmal
 
 👨‍💻 Web Developer | 🎨 Designer | 🔒 Cybersecurity Expert
 
@@ -8,7 +8,7 @@
 🔧 Tech Stack:
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Python
-- Design: Adobe Creative Suite
+- Design: Figma, Adobe XD
 - Security: Ethical Hacking, Penetration Testing
 
 📚 Lifelong learner exploring the ever-evolving tech landscape.
