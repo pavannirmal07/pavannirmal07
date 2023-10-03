@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**pavannirmal07/pavannirmal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Web Developer | 🎨 Designer | 🔒 Cybersecurity Expert
 
-Here are some ideas to get you started:
+🌐 Creating elegant web solutions that blend creativity and security.
+🛡️ Passionate about keeping the digital world safe and sound.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack:
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Python
+- Design: Adobe Creative Suite
+- Security: Ethical Hacking, Penetration Testing
+
+📚 Lifelong learner exploring the ever-evolving tech landscape.
+
+Let's connect and collaborate on building a safer and more beautiful web! 🚀
+
