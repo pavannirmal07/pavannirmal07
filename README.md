@@ -36,7 +36,7 @@
 
 ### 🤝 Let’s Connect
 
-Whether you’re building a startup, a college website, or just geeking out on tech —
+Whether you’re building a startup, a college website, or just geeking out on tech
 **Let’s team up to craft something amazing & secure!** ✨
 
 ---
