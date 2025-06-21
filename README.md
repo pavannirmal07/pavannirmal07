@@ -1,6 +1,3 @@
-Absolutely! Here's a **more attractive**, **dynamic**, and **engaging** version of your bio—perfect for GitHub README, portfolio, or LinkedIn "About" section. It combines professionalism, passion, and personality:
-
----
 
 ### 👋 Hey there, I'm **Pavan Nirmal**
 
@@ -43,5 +40,3 @@ Whether you’re building a startup, a college website, or just geeking out on t
 **Let’s team up to craft something amazing & secure!** ✨
 
 ---
-
-Let me know if you'd like a **dark-mode styled** version for GitHub or a **compressed version** for social media bios.
